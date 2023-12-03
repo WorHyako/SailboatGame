@@ -96,6 +96,10 @@
 		{
 			"Name": "CableComponent",
 			"Enabled": false
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
 		}
 	]
 }
